@@ -3474,7 +3474,9 @@ input, select, textarea {
 	text-align: left;
 }
 
-.pidsett-photo img {
+.pidsett-photo img, 
+.poster-photo img,
+.robo-photo img {
   max-width: 500px;
   width: 100%;
   height: auto;

@@ -3474,15 +3474,15 @@ input, select, textarea {
 	text-align: left;
 }
 
-.poster-photo img {
+.poster-photo img,
+.robo-photo img{
   max-width: 900px;
   width: 100%;
   height: auto;
   display: block;
   margin: 0 auto;
 }
-.pidsett-photo img, 
-.robo-photo img {
+.pidsett-photo img {
   max-width: 500px;
   width: 100%;
   height: auto;

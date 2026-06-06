@@ -3473,4 +3473,13 @@ input, select, textarea {
 	line-height: 1.6;
 	text-align: left;
 }
+
+.pidsett-photo img {
+  max-width: 500px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
 >>>>>>> 2f83c9e (Added more website files)
